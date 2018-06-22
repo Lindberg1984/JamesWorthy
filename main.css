@@ -86,7 +86,7 @@ ul li:hover ul li {
 /* Main body and picture settings begin here! */
   
 .main {
-	background-image: url(../images/jerseys.jpg);
+    background-image: url(images/BGJ.jpg);
 	background-repeat: no-repeat;
 	background-size: cover;
 	height: 860px;
